@@ -1,0 +1,4 @@
+baseURL = 'https://voiderov.github.io/'
+languageCode = 'en-us'
+title = 'My Digital Garden'
+theme = 'hugo-book'
